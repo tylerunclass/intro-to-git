@@ -3,3 +3,7 @@ My name is (your name here).
 I am a (class here).
 
 I study (major here).
+
+My name is Nicole.
+I am a sophomore.
+I study Computer Science and English.
