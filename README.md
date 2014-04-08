@@ -1,5 +1,7 @@
 # Intro to Git
 
+This exercise is from a lecture given on April 7, 2014. The slides for that lecture are [here](http://tylerjfisher.com/git-intro).
+
 To complete the Intro to Git exercise, follow these steps:
 
 #### Fork the Branch
